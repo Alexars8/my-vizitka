@@ -1,1 +1,1 @@
-Сайт-визитка для SkillBoxAI. Ссылка: [вставь сюда ссылку на твой сайт, когда она появится]
+Сайт-визитка для SkillBoxAI. Ссылка: https://www.google.com/search?q=https://alexars8.github.io/my-vizitka/&authuser=1
